@@ -1,0 +1,24 @@
+"*":
+  core:
+    disabledPackages: [
+      "emacs-core-keys"
+    ]
+    themes: [
+      "one-dark-ui"
+      "zenburn"
+    ]
+  editor:
+    fontFamily: "Hack"
+    invisibles: {}
+    lineHeight: 1.4
+    softWrap: true
+    tabLength: 8
+  "exception-reporting":
+    userId: "a4536068-09e5-f8ec-8020-123b1a9a8f30"
+  "git-plus": {}
+  "go-plus":
+    formatTool: "gofmt"
+    goPath: "~/Documents/code/go"
+  "linter-golinter": {}
+  welcome:
+    showOnStartup: false
